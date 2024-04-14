@@ -8,8 +8,8 @@
 To ImplementA * Search algorithm for a Graph using Python 3.
 
 ## Algorithm:
-```
-// A* Search Algorithm
+
+
 1.  Initialize the open list
 2.  Initialize the closed list
     put the starting node on the open 
@@ -41,7 +41,7 @@ To ImplementA * Search algorithm for a Graph using Python 3.
      end (for loop)
     e) push q on the closed list
     end (while loop)
-```
+
 
 ## PROGRAM:
 ```
